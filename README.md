@@ -1,2 +1,3 @@
 # prolog-anemia
-Instead of going to a doctor, refer to this
+
+Projeto para a cadeira de lógica para computação
